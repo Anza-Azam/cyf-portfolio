@@ -4,8 +4,9 @@ import './header.css';
 export const Header = () => {
     return (
         <header>
-            <div>
-            Header component will go here
+            <div className="header-container">
+                <h1>Anza Azam</h1>
+                <p>Full Stack Web Developer Portfolio</p>
             </div>
         </header>
     );
