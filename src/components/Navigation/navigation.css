@@ -1,0 +1,24 @@
+ul{
+    list-style: none;
+    display: flex;
+    padding-left: 0;
+    background-color: var(--medium-shade);
+}
+li{
+
+
+    padding: calc(var(--spacing-base) * 0.5);
+}
+a {text-decoration: none;
+  padding: calc(var(--spacing-base) * 0.5);
+  cursor:pointer;
+  color:var(--dark-shade);
+
+}
+a:hover{
+
+
+   background-color: var(--secondary-color);
+   color:var(--light-shade);
+   
+}
