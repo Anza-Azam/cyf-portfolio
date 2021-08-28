@@ -1,12 +1,10 @@
-import React from "react";
-import './footer.css';
+import React from 'react'
+import './footer.css'
 
 export const Footer = () => {
-    return (
+  return (
     <footer>
-        <div>
-            copyright @ 2021 Anza Azam 
-        </div>
+      <div>copyright @ 2021 Anza Azam</div>
     </footer>
-    );
-};
+  )
+}

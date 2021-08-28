@@ -25,7 +25,7 @@ export const Navigation = () => {
 						LinkedIn
 					</a>
 				</li>
-			
+
 				<li>
 					<a
 						href="https://codewards.com/Anza-Azam"

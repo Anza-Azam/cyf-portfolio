@@ -11,7 +11,8 @@
   margin: auto;
 }
 
-p,i{
+p,
+i {
   padding: var(--spacing-base);
 }
 .bg-primary {
@@ -19,7 +20,7 @@ p,i{
   background-color: var(--primary-color);
 }
 ul {
-  padding:0px;
+  padding: 0px;
   list-style-type: none;
 }
 @media only screen and (min-width: 992px) {
@@ -27,6 +28,4 @@ ul {
     flex-direction: row;
     width: 80%;
   }
-
- 
 }
