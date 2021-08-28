@@ -5,7 +5,7 @@ export const Footer = () => {
     return (
     <footer>
         <div>
-            Footer component will go here
+            copyright @ 2021 Anza Azam 
         </div>
     </footer>
     );

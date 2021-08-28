@@ -6,7 +6,9 @@ export const Main = () => {
     <main>
       <div className="main-wrapper">
         <div className="main-container">
-          <h2> About Me</h2>
+          <h2> About Me
+          <i class='fas fa-female fa-3x'></i></h2>
+
           <p>
             Sed ut perspiciatis, unde omnis iste natus error sit voluptatem
             accusantium doloremque laudantium, totam rem aperiam eaque ipsa,
@@ -37,7 +39,12 @@ export const Main = () => {
         </div>
 
         <div className="main-container">
-          <h2> About Me</h2>
+         <h2>
+  
+  About Me
+  <i class='fas fa-female fa-3x'></i>
+</h2>
+
           <p>
             Sed ut perspiciatis, unde omnis iste natus error sit voluptatem
             accusantium doloremque laudantium, totam rem aperiam eaque ipsa,
