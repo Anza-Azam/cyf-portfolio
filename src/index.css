@@ -5,9 +5,11 @@
   --dark-shade: #353535;
   --primary-color: #ee6352;
   --secondary-color: #08b2e3;
+  --terchiary-color:rgb(243, 239, 2);
   /* global sizing for fonts, padding and margins */
   --font-size-base: 16px;
   --spacing-base: 8px;
+  
 }
 
 * {
